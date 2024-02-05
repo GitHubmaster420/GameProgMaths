@@ -362,6 +362,7 @@
 "Assets/Scripts/CubeAnimation.cs"
 "Assets/Scripts/EasingFunctions.cs"
 "Assets/Scripts/Interpolation.cs"
+"Assets/Scripts/RadialTrigger.cs"
 "Assets/Scripts/Sphere.cs"
 "Assets/Scripts/Vectors.cs"
 -langversion:9.0

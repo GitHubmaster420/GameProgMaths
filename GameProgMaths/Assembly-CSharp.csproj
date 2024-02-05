@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Sphere.cs" />
     <Compile Include="Assets\Scripts\Interpolation.cs" />
     <Compile Include="Assets\Scripts\Cube.cs" />
+    <Compile Include="Assets\Scripts\RadialTrigger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
